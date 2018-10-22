@@ -1,4 +1,3 @@
-
 ## What is Markdown?
 
 Markdown is a tool used by web writers to convert text into HTML code. With Markdown, you can write using an easy-to-read and easy-to-write language. Then all you have to do is add your tags and convert your Markdown into valid HTML. 
