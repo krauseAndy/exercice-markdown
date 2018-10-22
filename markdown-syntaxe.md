@@ -87,7 +87,7 @@ Exactement pareil que pour l'image non animée.
 
 ------------
 >## Code
-Je vais ici mettre un bout de Javascript, et comme je suis gentil, je vais le commenter (je simulerait l'utilisation de JQuery):
+Je vais ici mettre un bout de Javascript, et comme je suis gentil, je vais le commenter (je simulerais l'utilisation de JQuery):
 ```javascript
 $(document).ready(() => {
     $("#unId").on('click', function(event){
